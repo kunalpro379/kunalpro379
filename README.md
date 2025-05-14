@@ -40,15 +40,16 @@
   </picture>
 </p>
 
-<!-- Animated GIF placeholder -->
-<!-- Replace below GIF with your final GIF once uploaded -->
+## 🌐 Live Portfolio Preview (Animated)
+
 <p align="center">
   <a href="https://my-portfolio-kunal-g85i.vercel.app/">
-    <img src="https://raw.githubusercontent.com/kunalpro379/kunalpro379/main/portfolio.gif" alt="Animated Portfolio Preview" width="80%" />
+    <img src="portfolio.gif" alt="Animated Portfolio Preview" width="80%" />
   </a>
 </p>
 
 > Click the animated preview to visit my full portfolio site 🚀
+
 
 ---
 
