@@ -31,16 +31,9 @@
 
 ---
 
-## 🌐 Live Portfolio Preview (Animated)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kunalpro379/kunalpro379/main/image1.png" width="0" height="0">
-  <picture>
-    <img src="https://raw.githubusercontent.com/kunalpro379/kunalpro379/main/image1.png" width="75%" />
-  </picture>
-</p>
 
-## 🌐 Live Portfolio Preview (Animated)
+## 🌐Portfolio Preview
 
 <p align="center">
   <a href="https://my-portfolio-kunal-g85i.vercel.app/">
@@ -48,7 +41,7 @@
   </a>
 </p>
 
-> Click the animated preview to visit my full portfolio site 🚀
+> Click the preview to visit my full portfolio site 🚀
 
 
 ---
