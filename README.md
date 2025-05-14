@@ -31,15 +31,24 @@
 
 ---
 
-## 🌐 Live Portfolio Preview
+## 🌐 Live Portfolio Preview (Animated)
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/kunalpro379/kunalpro379/main/image1.png" width="0" height="0">
+  <picture>
+    <img src="https://raw.githubusercontent.com/kunalpro379/kunalpro379/main/image1.png" width="75%" />
+  </picture>
+</p>
+
+<!-- Animated GIF placeholder -->
+<!-- Replace below GIF with your final GIF once uploaded -->
+<p align="center">
   <a href="https://my-portfolio-kunal-g85i.vercel.app/">
-    <img src="image.png" alt="Portfolio Preview" width="80%" />
+    <img src="https://raw.githubusercontent.com/kunalpro379/kunalpro379/main/portfolio-preview.gif" alt="Animated Portfolio Preview" width="80%" />
   </a>
 </p>
 
-> Click the image to open my full portfolio website.
+> Click the animated preview to visit my full portfolio site 🚀
 
 ---
 
