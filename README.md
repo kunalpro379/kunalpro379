@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://my-portfolio-kunal-g85i.vercel.app/">
-    <img src="https://user-images.githubusercontent.com/71961905/234000265-0c7f11a5-d0b4-4f5c-8b87-d9ef23a8a693.png" alt="Portfolio Preview" width="80%" />
+    <img src="image.png" alt="Portfolio Preview" width="80%" />
   </a>
 </p>
 
