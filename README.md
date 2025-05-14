@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">A Passionate Developer | Java,Devops, Node.js, GenAI, Flutter ML Enthusiast</h3>
+<h3 align="center">A Passionate Developer | Java, DevOps, Node.js, GenAI, Flutter & ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/kunalpro379?tab=followers">
@@ -14,39 +14,56 @@
 
 ## 💼 About Me
 
-- 🔭 I’m currently working on **Devops and AIML**
-- 🌱 I’m exploring **WebRTC, WebSockets, and Generative AI**
-- 💬 Ask me about **Java, SpringBoot,Flutter, Node.js,DSA, Databases, Devops, Kubernetes, MongoDB, Express, GenAI and ML**
+- 🔭 Currently diving deep into **DevOps and AI/ML projects**
+- 🌱 Exploring **WebRTC, WebSockets, and Generative AI**
+- 💬 Ask me about:  
+  **Java, Spring Boot, Flutter, Node.js, DSA, Databases, DevOps, Kubernetes, MongoDB, Express, GenAI, and ML**
 - 🌐 Portfolio: [my-portfolio-kunal-g85i.vercel.app](https://my-portfolio-kunal-g85i.vercel.app/)
-- 🤝 I’m open to collaborating on **unique and impactful projects**
+- 🤝 Open to collaborating on **innovative and impactful projects**
 
 ---
 
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,mongodb,js,ts,html,css,python,firebase,git,github,vscode, java, genai, deeplearning, machine learning, java" />
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,nodejs,express,mongodb,python,js,ts,html,css,firebase,git,github,kubernetes,docker,vscode" />
 </div>
+
+---
+
+## 🌐 Live Portfolio Preview
+
+<p align="center">
+  <a href="https://my-portfolio-kunal-g85i.vercel.app/">
+    <img src="https://user-images.githubusercontent.com/71961905/234000265-0c7f11a5-d0b4-4f5c-8b87-d9ef23a8a693.png" alt="Portfolio Preview" width="80%" />
+  </a>
+</p>
+
+> Click the image to open my full portfolio website.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalpro379&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalpro379&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalpro379&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalpro379&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 🌐 Let's Connect!
+## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://my-portfolio-kunal-g85i.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Portfolio-informational?style=for-the-badge&logo=vercel&logoColor=white&color=0abde3" /></a>
-  <a href="mailto:kunaldp379@gmail.com"><img src="https://img.shields.io/badge/Gmail-kunaldp379@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://my-portfolio-kunal-g85i.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:kunaldp379@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kunaldp379@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-> 🔗 Visit my [Portfolio Website](https://my-portfolio-kunal-g85i.vercel.app/) to know more about me.
+> 🔗 **Explore more about me** on my [Portfolio Website](https://my-portfolio-kunal-g85i.vercel.app/)
 
