@@ -12,18 +12,18 @@
 
 ---
 
-## 💼 About Me
+## About Me
 
-- 🔭 Currently diving deep into **DevOps and AI/ML projects**
-- 🌱 Exploring **WebRTC, WebSockets, and Generative AI**
-- 💬 Ask me about:  
+-  Currently diving deep into **DevOps and AI/ML projects**
+-  Exploring **WebRTC, WebSockets, and Generative AI**
+-  Ask me about:  
   **Java, Spring Boot, Flutter, Node.js, DSA, Databases, DevOps, Kubernetes, MongoDB, Express, GenAI, and ML**
-- 🌐 Portfolio: [my-portfolio-kunal-g85i.vercel.app](https://my-portfolio-kunal-g85i.vercel.app/)
-- 🤝 Open to collaborating on **innovative and impactful projects**
+-  Portfolio: [my-portfolio-kunal-g85i.vercel.app](https://kunalpatil.me)
+-  Open to collaborating on **innovative and impactful projects**
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,nodejs,express,mongodb,python,js,ts,html,css,firebase,git,github,kubernetes,docker,vscode" />
@@ -33,20 +33,7 @@
 
 
 
-## 🌐Portfolio Preview
-
-<p align="center">
-  <a href="https://my-portfolio-kunal-g85i.vercel.app/">
-    <img src="portfolio.gif" alt="Animated Portfolio Preview" width="80%" />
-  </a>
-</p>
-
-> Click the preview to visit my full portfolio site 🚀
-
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunalpro379&show_icons=true&theme=radical" width="48%" />
@@ -55,10 +42,10 @@
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <p align="center">
-  <a href="https://my-portfolio-kunal-g85i.vercel.app/" target="_blank">
+  <a href="https://kunalpatil.me" target="_blank">
     <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=vercel" />
   </a>
   <a href="mailto:kunaldp379@gmail.com">
@@ -68,5 +55,5 @@
 
 ---
 
-> 🔗 **Explore more about me** on my [Portfolio Website](https://my-portfolio-kunal-g85i.vercel.app/)
+>  **Explore more about me** on my [Portfolio Website](https://kunalpatil.me)
 
