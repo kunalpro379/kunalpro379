@@ -5,7 +5,7 @@
   <a href="https://github.com/kunalpro379?tab=followers">
     <img src="https://img.shields.io/github/followers/kunalpro379?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
-  <a href="https://my-portfolio-kunal-g85i.vercel.app/">
+  <a href="https://kunalpatil.me">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-orange?logo=vercel" alt="Portfolio Badge"/>
   </a>
 </p>
