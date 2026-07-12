@@ -18,7 +18,7 @@
 -  Exploring **WebRTC, WebSockets, and Generative AI**
 -  Ask me about:  
   **Java, Spring Boot, Flutter, Node.js, DSA, Databases, DevOps, Kubernetes, MongoDB, Express, GenAI, and ML**
--  Portfolio: [https://kunalpatil.me](https://kunalpatil.in)
+-  Portfolio: [https://kunalpatil.in](https://kunalpatil.in)
 -  Open to collaborating on **innovative and impactful projects**
 
 ---
