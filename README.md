@@ -5,7 +5,7 @@
   <a href="https://github.com/kunalpro379?tab=followers">
     <img src="https://img.shields.io/github/followers/kunalpro379?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
-  <a href="https://kunalpatil.me">
+  <a href="https://kunalpatil.in">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-orange?logo=vercel" alt="Portfolio Badge"/>
   </a>
 </p>
@@ -18,7 +18,7 @@
 -  Exploring **WebRTC, WebSockets, and Generative AI**
 -  Ask me about:  
   **Java, Spring Boot, Flutter, Node.js, DSA, Databases, DevOps, Kubernetes, MongoDB, Express, GenAI, and ML**
--  Portfolio: [https://kunalpatil.me](https://kunalpatil.me)
+-  Portfolio: [https://kunalpatil.me](https://kunalpatil.in)
 -  Open to collaborating on **innovative and impactful projects**
 
 ---
